@@ -1,0 +1,173 @@
+﻿ <header id="topnav">
+            <div class="topbar-main">
+                <div class="container">
+
+                    <!-- Logo container-->
+                    <div class="logo">
+                        <a href="index.html" class="logo"><span>Train Plan</span></a>
+                    </div>
+                    <!-- End Logo container-->
+
+
+                    <div class="menu-extras">
+
+                        <ul class="nav navbar-nav navbar-right pull-right">
+                            <li class="navbar-c-items">
+                                <form role="search" class="navbar-left app-search pull-left hidden-xs">
+                                     <input type="text" placeholder="Search..." class="form-control">
+                                     <a href=""><i class="fa fa-search"></i></a>
+                                </form>
+                            </li>
+
+
+                            <li class="dropdown navbar-c-items">
+                                <a href="" class="dropdown-toggle waves-effect waves-light profile" data-toggle="dropdown" aria-expanded="true"><img src="img/logo.png" alt="user-img" class="img-circle"> </a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="javascript:void(0)"><i class="ti-user text-custom m-r-10"></i> Profile</a></li>
+                                    <li><a href="javascript:void(0)"><i class="ti-settings text-custom m-r-10"></i> Settings</a></li>
+                                    <li><a href="javascript:void(0)"><i class="ti-lock text-custom m-r-10"></i> Lock screen</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="#/login"><i class="ti-power-off text-danger m-r-10"></i> Logout</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <div class="menu-item">
+                            <!-- Mobile menu toggle-->
+                            <a class="navbar-toggle">
+                                <div class="lines">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                            </a>
+                            <!-- End mobile menu toggle-->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="navbar-custom">
+                <div class="container">
+                    <div id="navigation">
+                        <!-- Navigation Menu-->
+                        <ul class="navigation-menu">
+                            <li class="has-submenu">
+                                <a href="#"><i class="md md-dashboard"></i>Dashboard</a>
+                                <ul class="submenu">
+                                    <li>
+                                        <a href="#">Daily Plan</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Depot Plan</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">MTS Lookup</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Location Lookup</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            
+                        </ul>
+                        <!-- End navigation menu        -->
+                    </div>
+
+                </div> <!-- end container -->
+            </div> <!-- end navbar-custom -->
+        </header>
+
+         <div class="wrapper">
+
+          <div class="container" data-ng-controller="HomePageCtrl"> 
+              <div class="row">
+                        <div class="col-lg-12">
+                            <div class="page-header">
+                               <h1>Daily Plan</h1>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <div class="card-box">
+                                <div class="row">
+                                        <div class="col-md-12">
+                                            <h4 class="m-t-0 header-title"><b>Corridors</b></h4>
+                                        <div ng-cloak layout-gt-sm="row" layout="column">
+                                        <select name="repeatCorrirorSelect" id="repeatSelect" ng-model="corridors.multipleSelect" multiple> 
+                                                <option ng-click="populateServices(option.services)"  ng-repeat="option in corridors.corridors" value="{{option.corridorId}}">{{option.corridorName}}</option>
+                                            </select>  <br/> <br/> 
+                                              <h4 class="m-t-0 header-title"><b>Services</b></h4>
+
+                                            <select name="repeatServicesSelect" id="repeatSelect" ng-model="corridors.multipleSelect" multiple> 
+                                                <option ng-click="populateSelectedService(option.descriptions)" ng-repeat="option in services" value="{{option.serviceName}}">{{option.serviceName}}</option>
+                                            </select>
+
+                                            </select>  <br/> <br/> 
+                                              <h4 class="m-t-0 header-title"><b>Selected Service</b></h4>
+
+                                            <select name="repeatSelectedSelect" id="selectedServiceSelect" ng-model="corridors.multipleSelect" multiple> 
+                                                <option ng-click="populatePlanStatus()" ng-repeat="option in selectedService" value="{{option.serviceName}}">{{option.serviceName}}</option>
+                                            </select>
+                                        
+                                        </div>
+                                            
+                                        </div>
+
+                                </div>    
+                            </div>
+                        </div>
+                        <div class="col-sm-7">
+                            <div class="card-box">
+                                <div class="row">
+                                <div class="col-md-12">
+                                <h4 class="m-t-0 header-title"><b>Plan Status Dashboard</b></h4>
+                                
+                                <div class="table-responsive">
+                                <table class="table" id="statusTable">
+                                    <thead>
+                                        <tr>
+                                            <th>Plan Date</th>
+                                            <th>Plan Id</th>
+                                            <th>Plan Status</th>
+                                            <th>Submitted</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="statusTableBody">
+                                        <tr>
+                                            <td>{{planDate}}</td>    
+                                            <td>{{planId}}</td>  
+                                            <td>{{planStatus}}</td> 
+                                            <td>{{planSubmitted}}</td>                                                                      
+                                        </tr>
+                                    </tbody>
+                                  </table>
+                                 </div>
+
+                                <div class="btn-toolbar">  
+                                    <a href="#/plan-detail" class="btn btn-default">
+                                        <span class="glyphicon glyphicon-folder-open"></span> Open
+                                    </a>
+                                    <a class="btn btn-default">
+                                        <span class="glyphicon glyphicon-eye-open"></span> Preview
+                                    </a>
+                                </div> <br/><br/>
+                                 <h4 class="m-t-0 header-title"><b>Select Plan Date</b></h4>
+                                 <div style="display:inline-block; min-height:290px;">
+                                    <div uib-datepicker ng-model="dt" class="well well-sm" datepicker-options="options"></div>
+                                </div>
+                              </div>    
+                            </div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+           </div>
+
+
+
+ <footer class="footer text-right">
+                    © 2016. Transnet Freight Rail All rights reserved.
+                </footer>

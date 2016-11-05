@@ -1,0 +1,3983 @@
+{
+  "success": true,
+  "errorCode": null,
+  "errorMessage": null,
+  "corridors": [
+    {
+      "corrirorId": 8,
+      "corridorName": "CAPECOR1",
+      "services": [
+        {
+          "serviceId": 68,
+          "serviceName": "GAUTENG - KLERKSDORP",
+          "descriptions": [
+            {
+              "serviceId": 67,
+              "serviceName": "GAUTENG - KLERKSDORP",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 67,
+          "serviceName": "A1 BEC  - KPR - BEC",
+          "descriptions": [
+            {
+              "serviceId": 66,
+              "serviceName": "A1 BEC  - KPR - BEC",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 87,
+          "serviceName": "PMG - WAR - BEC - PMG",
+          "descriptions": [
+            {
+              "serviceId": 86,
+              "serviceName": "PMG - WAR - BEC - PMG",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 88,
+          "serviceName": "PMG - SIN - HLZ - PMG",
+          "descriptions": [
+            {
+              "serviceId": 87,
+              "serviceName": "PMG - SIN - HLZ - PMG",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 744,
+              "serviceName": "PMG,HLZ BRANCHLINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 69,
+          "serviceName": "BEC - (KBY - WAR - VRU - MEI)",
+          "descriptions": [
+            {
+              "serviceId": 68,
+              "serviceName": "BEC - (KBY - WAR - VRU - MEI)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 74,
+          "serviceName": "COL - PUD - COL",
+          "descriptions": [
+            {
+              "serviceId": 73,
+              "serviceName": "COL - PUD - COL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 73,
+          "serviceName": "COL - VMS - OTD - WMD - COL",
+          "descriptions": [
+            {
+              "serviceId": 72,
+              "serviceName": "COL - VMS - OTD - WMD - COL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 621,
+          "serviceName": "COL-KPR BRANCH LINES",
+          "descriptions": [
+            {
+              "serviceId": 601,
+              "serviceName": "COL-KPR BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 71,
+          "serviceName": "KPR - HBR - MEA - OTD - KPR",
+          "descriptions": [
+            {
+              "serviceId": 70,
+              "serviceName": "KPR - HBR - MEA - OTD - KPR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 72,
+          "serviceName": "MAQ - BBI - VMS - MAQ",
+          "descriptions": [
+            {
+              "serviceId": 71,
+              "serviceName": "MAQ - BBI - VMS - MAQ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 9,
+      "corridorName": "CAPECOR2",
+      "services": [
+        {
+          "serviceId": 83,
+          "serviceName": "BLE - WOR - BLE",
+          "descriptions": [
+            {
+              "serviceId": 82,
+              "serviceName": "A6 BLE - WOR - BLE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1301,
+              "serviceName": "CDX043",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 84,
+          "serviceName": "WOR - BFU - WOR",
+          "descriptions": [
+            {
+              "serviceId": 83,
+              "serviceName": "A5 WOR - BFU - WOR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 85,
+          "serviceName": "BFU - DER - BFU",
+          "descriptions": [
+            {
+              "serviceId": 84,
+              "serviceName": "A4 BFU - DER - BFU",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 86,
+          "serviceName": "DER - BEC - DER",
+          "descriptions": [
+            {
+              "serviceId": 85,
+              "serviceName": "A3 DER - BEC - DER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 97,
+          "serviceName": "BELLVILLE BRANCH LINES",
+          "descriptions": [
+            {
+              "serviceId": 96,
+              "serviceName": "BELLVILLE BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 76,
+          "serviceName": "WOR - (AHT- RDS- MSB) - WOR",
+          "descriptions": [
+            {
+              "serviceId": 1461,
+              "serviceName": "333710",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 75,
+              "serviceName": "WOR - (AHT- RDS- MSB) - WOR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 89,
+          "serviceName": "DER - UPR - DER",
+          "descriptions": [
+            {
+              "serviceId": 88,
+              "serviceName": "DER - PRK - UPR - DER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 90,
+          "serviceName": "UPR - AMI - UPR",
+          "descriptions": [
+            {
+              "serviceId": 89,
+              "serviceName": "UPR - AMI - UPR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 91,
+          "serviceName": "UPR - KAA - UPR",
+          "descriptions": [
+            {
+              "serviceId": 90,
+              "serviceName": "UPR - KAA - UPR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 781,
+          "serviceName": "CLN-BDD-CLN",
+          "descriptions": [
+            {
+              "serviceId": 761,
+              "serviceName": "CLN-BDD-CLN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 682,
+          "serviceName": "KLV-BFI",
+          "descriptions": [
+            {
+              "serviceId": 662,
+              "serviceName": "KLV-BFI",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 681,
+          "serviceName": "POL-HRM",
+          "descriptions": [
+            {
+              "serviceId": 661,
+              "serviceName": "POL-HRM",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 6,
+      "corridorName": "CAPECOR3",
+      "services": [
+        {
+          "serviceId": 42,
+          "serviceName": "GAUTENG-KRO",
+          "descriptions": [
+            {
+              "serviceId": 42,
+              "serviceName": "GAUTENG-KRO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 45,
+          "serviceName": "C1  KROONSTAD-BLOEMFONTEIN",
+          "descriptions": [
+            {
+              "serviceId": 45,
+              "serviceName": "C1  KROONSTAD-BLOEMFONTEIN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 48,
+          "serviceName": "E1  BLOEMFONTEIN-NOUPOORT",
+          "descriptions": [
+            {
+              "serviceId": 48,
+              "serviceName": "E1  BLOEMFONTEIN-NOUPOORT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 49,
+          "serviceName": "E2  BLOEMFONTEIN-SPRINGFONTEIN",
+          "descriptions": [
+            {
+              "serviceId": 49,
+              "serviceName": "E2  BLOEMFONTEIN-SPRINGFONTEIN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 50,
+          "serviceName": "F1  ELN-QTN-ELN",
+          "descriptions": [
+            {
+              "serviceId": 50,
+              "serviceName": "F1  ELN-QTN-ELN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 51,
+          "serviceName": "F2  QTN-BUP-QTN",
+          "descriptions": [
+            {
+              "serviceId": 51,
+              "serviceName": "F2  QTN-BUP-QTN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 52,
+          "serviceName": "F3  BUP-SFR-BUP",
+          "descriptions": [
+            {
+              "serviceId": 52,
+              "serviceName": "F3  BUP-SFR-BUP",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 53,
+          "serviceName": "G1  PORT ELIZABETH-ROSMEAD",
+          "descriptions": [
+            {
+              "serviceId": 53,
+              "serviceName": "G1  PORT ELIZABETH-ROSMEAD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 54,
+          "serviceName": "G2  ROSMEAD-DE AAR",
+          "descriptions": [
+            {
+              "serviceId": 54,
+              "serviceName": "G2  ROSMEAD-DE AAR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 46,
+          "serviceName": "D1  BLOEMFONTEIN-BEACONSFIELD",
+          "descriptions": [
+            {
+              "serviceId": 46,
+              "serviceName": "D1  BLOEMFONTEIN-BEACONSFIELD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 55,
+          "serviceName": "C2  KROONSTAD-SASOLBURG",
+          "descriptions": [
+            {
+              "serviceId": 55,
+              "serviceName": "C2  KROONSTAD-SASOLBURG",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 721,
+          "serviceName": "KROONSTAD BRACHLINES",
+          "descriptions": [
+            {
+              "serviceId": 702,
+              "serviceName": "KROONSTAD BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 722,
+          "serviceName": "BETHLEHEM BRANCH LINES",
+          "descriptions": [
+            {
+              "serviceId": 701,
+              "serviceName": "BETHLEHEM BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 59,
+          "serviceName": "B4 BETHLEHEM - ARLINGTON/MARQUARD/HEILBRON",
+          "descriptions": [
+            {
+              "serviceId": 59,
+              "serviceName": "B4 BETHLEHEM - ARLINGTON/MARQUARD/HEILBRON",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 742,
+          "serviceName": "BLOEMFONTEIN BRANCH LINES",
+          "descriptions": [
+            {
+              "serviceId": 721,
+              "serviceName": "BLOEMFONTEIN BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 56,
+          "serviceName": "C3  SASOLBURG -VILJOENSDRIF / VREDEFORD",
+          "descriptions": [
+            {
+              "serviceId": 56,
+              "serviceName": "C3  SASOLBURG -VILJOENSDRIF / VREDEFORD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 802,
+          "serviceName": "EAST LONDON BRANCHLINES",
+          "descriptions": [
+            {
+              "serviceId": 743,
+              "serviceName": "EAST LONDON BRANCHLINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 224,
+          "serviceName": "NBN-KIT-OUH-GEO-KYL-VBA-NBN",
+          "descriptions": [
+            {
+              "serviceId": 204,
+              "serviceName": "NBN-KIT-OUH-GEO-KYL-VBA-NBN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 801,
+          "serviceName": "PE BRANCHLINES",
+          "descriptions": [
+            {
+              "serviceId": 742,
+              "serviceName": "PE BRANCHLINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 10,
+      "corridorName": "EASTCOR",
+      "services": [
+        {
+          "serviceId": 100,
+          "serviceName": "A1-WATERVAL BOVEN-WITBANK",
+          "descriptions": [
+            {
+              "serviceId": 99,
+              "serviceName": "A1-WATERVAL BOVEN-WITBANK",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 101,
+          "serviceName": "A2-WATERVAL-BOVEN-NELSPRUIT-KOMATIPOORT",
+          "descriptions": [
+            {
+              "serviceId": 100,
+              "serviceName": "A2-WATERVAL-BOVEN-NELSPRUIT-KOMATIPOORT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 117,
+          "serviceName": "A3-WATERVAL BOVEN-BELFAST-ERMELO",
+          "descriptions": [
+            {
+              "serviceId": 114,
+              "serviceName": "A3-WATERVAL BOVEN-BELFAST-ERMELO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 102,
+          "serviceName": "B1-NELSPRUIT-WATERVAL BOVEN-WITBANK",
+          "descriptions": [
+            {
+              "serviceId": 101,
+              "serviceName": "B1-NELSPRUIT-WATERVAL BOVEN-WITBANK",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 103,
+          "serviceName": "B2-NELSPRUIT/HOEDSPRUIT-PHALABORWA",
+          "descriptions": [
+            {
+              "serviceId": 102,
+              "serviceName": "B2-NELSPRUIT/HOEDSPRUIT-PHALABORWA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 104,
+          "serviceName": "B3-NELSPRUIT-KOMATIPOORT",
+          "descriptions": [
+            {
+              "serviceId": 103,
+              "serviceName": "B3-NELSPRUIT-KOMATIPOORT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 118,
+          "serviceName": "B4-NELSPRUIT-SABIE-GRASKOP-PLASTON",
+          "descriptions": [
+            {
+              "serviceId": 115,
+              "serviceName": "B4-NELSPRUIT-SABIE-GRASKOP-PLASTON",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 105,
+          "serviceName": "B5-SABIE-GRASKOP-NELSPRUIT",
+          "descriptions": [
+            {
+              "serviceId": 104,
+              "serviceName": "B5-SABIE-GRASKOP-NELSPRUIT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 106,
+          "serviceName": "B7-PHALABORWA-KOMATIPOORT-NELSPRUIT",
+          "descriptions": [
+            {
+              "serviceId": 105,
+              "serviceName": "B7-PHALABORWA-KOMATIPOORT-NELSPRUIT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 107,
+          "serviceName": "C1-KOMATIPOORT-NELSPRUIT",
+          "descriptions": [
+            {
+              "serviceId": 106,
+              "serviceName": "C1-KOMATIPOORT-NELSPRUIT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 108,
+          "serviceName": "C2-KOMATIPOORT-HOEDSPRUIT-PHALABORWA",
+          "descriptions": [
+            {
+              "serviceId": 107,
+              "serviceName": "C2-KOMATIPOORT-HOEDSPRUIT-PHALABORWA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 123,
+          "serviceName": "C3-KOMATIPOORT-GOLELLA",
+          "descriptions": [
+            {
+              "serviceId": 123,
+              "serviceName": "C3-KOMATIPOORT-GOLELLA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1361,
+          "serviceName": "C4-KOMATIPOORT-MAPUTO",
+          "descriptions": [
+            {
+              "serviceId": 1441,
+              "serviceName": "C4-KOMATIPOORT-MAPUTO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 109,
+          "serviceName": "D1-WITBANK-WATERVALBOVEN-NELSPRUIT",
+          "descriptions": [
+            {
+              "serviceId": 108,
+              "serviceName": "D1-WITBANK-WATERVALBOVEN-NELSPRUIT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 361,
+              "serviceName": "EASTCOR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 116,
+          "serviceName": "D2-WITBANK-ROOSSENEKAL",
+          "descriptions": [
+            {
+              "serviceId": 113,
+              "serviceName": "D2-WITBANK-ROOSSENEKAL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 110,
+          "serviceName": "D3-WITBANK-CENTRAL",
+          "descriptions": [
+            {
+              "serviceId": 109,
+              "serviceName": "D3-WITBANK-CENTRAL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 181,
+              "serviceName": "F1-CENTRAL-WITBANK",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 111,
+          "serviceName": "D4-BELFAST-ERMELO-NGODWANA",
+          "descriptions": [
+            {
+              "serviceId": 110,
+              "serviceName": "D4-BELFAST-ERMELO-NGODWANA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 112,
+          "serviceName": "D5-WITBANK-ERMELO",
+          "descriptions": [
+            {
+              "serviceId": 111,
+              "serviceName": "D5-WITBANK-ERMELO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 113,
+          "serviceName": "D6-WITBANK-PRETORIA",
+          "descriptions": [
+            {
+              "serviceId": 112,
+              "serviceName": "D6-WITBANK-PRETORIA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 121,
+          "serviceName": "E1-LYDENBURG-BELFAST",
+          "descriptions": [
+            {
+              "serviceId": 121,
+              "serviceName": "E1-LYDENBURG-BELFAST",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 122,
+          "serviceName": "E2-LYDENBURG-STEELPOORT",
+          "descriptions": [
+            {
+              "serviceId": 122,
+              "serviceName": "E2-LYDENBURG-STEELPOORT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 281,
+          "serviceName": "SPES SWITCH ON'S",
+          "descriptions": [
+            {
+              "serviceId": 261,
+              "serviceName": "SPES SWITCH ON'S",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 101,
+      "corridorName": "GFB COAL LINE",
+      "services": [
+        {
+          "serviceId": 1111,
+          "serviceName": "EML - RCB - EML",
+          "descriptions": [
+            {
+              "serviceId": 1094,
+              "serviceName": "EML - RCB - EML",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 861,
+          "serviceName": "GFB = EML-VYD-EML",
+          "descriptions": [
+            {
+              "serviceId": 821,
+              "serviceName": "GFB = EML-VYD-EML",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1542,
+              "serviceName": "GFB=EML-VYD=EML",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 862,
+          "serviceName": "GFB = RCB-VYD-RCB",
+          "descriptions": [
+            {
+              "serviceId": 822,
+              "serviceName": "GFB = RCB-VYD-RCB",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1541,
+              "serviceName": "RCB=VYD-RCB",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1102,
+          "serviceName": "RCB - EML - RCB",
+          "descriptions": [
+            {
+              "serviceId": 1082,
+              "serviceName": "RCB - EML - RCB",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 61,
+      "corridorName": "HEAVY HAUL",
+      "services": [
+        {
+          "serviceId": 1144,
+          "serviceName": "EMR-RBH-EMR",
+          "descriptions": [
+            {
+              "serviceId": 1105,
+              "serviceName": "EMR-RBH-EMR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 881,
+          "serviceName": "EMR-VHO-EMR",
+          "descriptions": [
+            {
+              "serviceId": 841,
+              "serviceName": "EMR-VHO-EMR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1143,
+          "serviceName": "RBH-EMR-RBH",
+          "descriptions": [
+            {
+              "serviceId": 1106,
+              "serviceName": "RBH-EMR-RBH",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 882,
+          "serviceName": "RBH-VHO-RBH",
+          "descriptions": [
+            {
+              "serviceId": 842,
+              "serviceName": "RBH-VHO-RBH",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 121,
+      "corridorName": "MINE SERVICES",
+      "services": [
+        {
+          "serviceId": 841,
+          "serviceName": "ERMELO -COAL FIELDS",
+          "descriptions": [
+            {
+              "serviceId": 802,
+              "serviceName": "ERMELO -COAL FIELDS",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 141,
+      "corridorName": "NATCOR 1",
+      "services": [
+        {
+          "serviceId": 1332,
+          "serviceName": "DANSKRAAL PIETERS",
+          "descriptions": [
+            {
+              "serviceId": 1410,
+              "serviceName": "DANSKRAAL PIETERS",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1324,
+          "serviceName": "DANSKRAAL TO VRYHEID",
+          "descriptions": []
+        },
+        {
+          "serviceId": 901,
+          "serviceName": "DANSKRAAL/GLENCO/VRYHEID2",
+          "descriptions": [
+            {
+              "serviceId": 861,
+              "serviceName": "DANSKRAAL/GLENCO/VRYHEID2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 905,
+          "serviceName": "JOHANNESBURG TO DURBAN2",
+          "descriptions": [
+            {
+              "serviceId": 865,
+              "serviceName": "JOHANNESBURG TO DURBAN2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 906,
+          "serviceName": "JOHANNESBURG TO NEW CASTLE2",
+          "descriptions": [
+            {
+              "serviceId": 866,
+              "serviceName": "JOHANNESBURG TO NEW CASTLE2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 904,
+          "serviceName": "NATCOR 1 + 22",
+          "descriptions": [
+            {
+              "serviceId": 864,
+              "serviceName": "NATCOR 1 + 22",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 921,
+          "serviceName": "NATCOR SHUTTLE SERVICE2",
+          "descriptions": [
+            {
+              "serviceId": 881,
+              "serviceName": "NATCOR SHUTTLE SERVICE2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 902,
+          "serviceName": "NEW CASTLE TO DANSKRAAL2",
+          "descriptions": [
+            {
+              "serviceId": 862,
+              "serviceName": "NEW CASTLE TO DANSKRAAL2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 903,
+          "serviceName": "NEWCASTLE-GLENCO-VRYHEID2",
+          "descriptions": [
+            {
+              "serviceId": 863,
+              "serviceName": "NEWCASTLE-GLENCO-VRYHEID2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 181,
+      "corridorName": "NATCOR 1 NEW",
+      "services": [
+        {
+          "serviceId": 542,
+          "serviceName": "DANSKRAAL/GLENCO/VRYHEID",
+          "descriptions": [
+            {
+              "serviceId": 521,
+              "serviceName": "DANSKRAAL/GLENCO/VRYHEID",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 545,
+          "serviceName": "DURBAN TO REEF",
+          "descriptions": [
+            {
+              "serviceId": 524,
+              "serviceName": "DURBAN TO REEF",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 546,
+          "serviceName": "JOHANNESBURG TO DURBAN",
+          "descriptions": [
+            {
+              "serviceId": 525,
+              "serviceName": "JOHANNESBURG TO DURBAN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 561,
+          "serviceName": "JOHANNESBURG TO NEW CASTLE",
+          "descriptions": [
+            {
+              "serviceId": 541,
+              "serviceName": "JOHANNESBURG TO NEW CASTLE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 501,
+          "serviceName": "MAJUBA",
+          "descriptions": [
+            {
+              "serviceId": 481,
+              "serviceName": "MAJUBA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1301,
+          "serviceName": "NATCOR SHUTTLE SERVICE",
+          "descriptions": [
+            {
+              "serviceId": 1361,
+              "serviceName": "NATCOR SHUTTLE SERVICE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 543,
+          "serviceName": "NEW CASTLE TO DANSKRAAL",
+          "descriptions": [
+            {
+              "serviceId": 522,
+              "serviceName": "NEW CASTLE TO DANSKRAAL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 544,
+          "serviceName": "NEWCASTLE-GLENCO-VRYHEID",
+          "descriptions": [
+            {
+              "serviceId": 523,
+              "serviceName": "NEWCASTLE-GLENCO-VRYHEID",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1401,
+          "serviceName": "THUTHUKA",
+          "descriptions": [
+            {
+              "serviceId": 1521,
+              "serviceName": "THUTHUKA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 2,
+      "corridorName": "NATCOR 2",
+      "services": [
+        {
+          "serviceId": 10,
+          "serviceName": "A1-DNR-DSL-DNR",
+          "descriptions": [
+            {
+              "serviceId": 10,
+              "serviceName": "A1-DNR-DSL-DNR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 981,
+          "serviceName": "A2 - GUN-DSL-GUN",
+          "descriptions": [
+            {
+              "serviceId": 961,
+              "serviceName": "A2 - GUN-DSL-GUN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1001,
+          "serviceName": "B1 - BETHLEHEM BRANCH LINES",
+          "descriptions": [
+            {
+              "serviceId": 962,
+              "serviceName": "B1 - BETHLEHEM BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 8,
+          "serviceName": "C1-NOORDKUS: DURBAN-EMPANGENI-DURBAN",
+          "descriptions": [
+            {
+              "serviceId": 8,
+              "serviceName": "C1-NOORDKUS: DURBAN-EMPANGENI-DURBAN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 14,
+          "serviceName": "C3-RICHARD'S BAY - NKWALINI",
+          "descriptions": [
+            {
+              "serviceId": 14,
+              "serviceName": "C3-RICHARD'S BAY - NKWALINI",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 7,
+          "serviceName": "D1-SOUTH COAST: DURBAN-PORT SHEPSTONE-DURBAN",
+          "descriptions": [
+            {
+              "serviceId": 7,
+              "serviceName": "D1-SOUTH COAST: DURBAN-PORT SHEPSTONE-DURBAN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 562,
+          "serviceName": "D2-MAM - DNR / DSL + TAK1",
+          "descriptions": [
+            {
+              "serviceId": 542,
+              "serviceName": "D2-MAM - DNR / DSL + TAK1",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 661,
+          "serviceName": "D3-PZB-KDX-MTE-CDV-PZB",
+          "descriptions": [
+            {
+              "serviceId": 641,
+              "serviceName": "D3-PZB-KDX-MTE-CDV-PZB",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1382,
+          "serviceName": "GOL - KTR",
+          "descriptions": [
+            {
+              "serviceId": 1482,
+              "serviceName": "GOL - KTR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1381,
+          "serviceName": "RCB - GOL",
+          "descriptions": [
+            {
+              "serviceId": 1481,
+              "serviceName": "RCB - GOL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1040,
+          "serviceName": "SWAZILAND KOMATIPOORT",
+          "descriptions": [
+            {
+              "serviceId": 1040,
+              "serviceName": "SWAZILAND KOMATIPOORT",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 42,
+      "corridorName": "NCSC GEN1",
+      "services": [
+        {
+          "serviceId": 16,
+          "serviceName": "B1 -  PYRAMID SOUTH / THABAZIMBI / PYRAMID SOUTH",
+          "descriptions": [
+            {
+              "serviceId": 16,
+              "serviceName": "B1 -  PYRAMID SOUTH / THABAZIMBI / PYRAMID SOUTH",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 18,
+          "serviceName": "B2 - THABAZIMBI / GROTEGELUK",
+          "descriptions": [
+            {
+              "serviceId": 18,
+              "serviceName": "B2 - THABAZIMBI / GROTEGELUK",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 19,
+          "serviceName": "B3 - RUSTENBURG / MIDDELWIT / THABAZIMBI",
+          "descriptions": [
+            {
+              "serviceId": 19,
+              "serviceName": "B3 - RUSTENBURG / MIDDELWIT / THABAZIMBI",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 641,
+          "serviceName": "B4 RTR-PNG-ATA",
+          "descriptions": [
+            {
+              "serviceId": 621,
+              "serviceName": "B4 RTR-PNG-ATA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 231,
+          "serviceName": "GENERAL1",
+          "descriptions": [
+            {
+              "serviceId": 211,
+              "serviceName": "GENERAL1",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 461,
+              "serviceName": "GENERAL2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 462,
+              "serviceName": "GENERAL3",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 463,
+              "serviceName": "GENERAL4",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 483,
+          "serviceName": "GENERAL2",
+          "descriptions": [
+            {
+              "serviceId": 469,
+              "serviceName": "TOETS2",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 484,
+          "serviceName": "GENERAL3",
+          "descriptions": [
+            {
+              "serviceId": 468,
+              "serviceName": "TOETS3",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 3,
+      "corridorName": "NORTHCOR",
+      "services": [
+        {
+          "serviceId": 1165,
+          "serviceName": "A1 - PRZ / LAA / PRZ",
+          "descriptions": [
+            {
+              "serviceId": 1124,
+              "serviceName": "A1 - PRZ / LAA / PRZ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1161,
+          "serviceName": "A11 - LAA BOOK OFF",
+          "descriptions": [
+            {
+              "serviceId": 1123,
+              "serviceName": "A11 - LAA BOOK OFF",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 20,
+          "serviceName": "A2 - POLOKWANE / GROENBULT",
+          "descriptions": [
+            {
+              "serviceId": 20,
+              "serviceName": "A2 - POLOKWANE / GROENBULT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 21,
+          "serviceName": "A3 - MUSSINA / GROENBULT",
+          "descriptions": [
+            {
+              "serviceId": 21,
+              "serviceName": "A3 - MUSSINA / GROENBULT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 22,
+          "serviceName": "A4 - TZANEEN / GROENBULT",
+          "descriptions": [
+            {
+              "serviceId": 22,
+              "serviceName": "A4 - TZANEEN / GROENBULT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 17,
+          "serviceName": "A5 - TZANEEN / HOEDSPRUIT",
+          "descriptions": [
+            {
+              "serviceId": 17,
+              "serviceName": "A5 - TZANEEN / HOEDSPRUIT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1182,
+          "serviceName": "B1 - PYRAMID SOUTH / THABAZIMBI  X-POINT",
+          "descriptions": [
+            {
+              "serviceId": 1147,
+              "serviceName": "B1 - PYRAMID SOUTH / THABAZIMBI  X-POINT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1181,
+          "serviceName": "B11 - TZB BOOK OFF",
+          "descriptions": [
+            {
+              "serviceId": 1146,
+              "serviceName": "B11 - TZB BOOK OFF",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 941,
+          "serviceName": "B2 -  PYRAMID SOUTH / RUSTENBURG / PYRAMID SOUTH 1",
+          "descriptions": [
+            {
+              "serviceId": 921,
+              "serviceName": "B2 -  PYRAMID SOUTH / RUSTENBURG / PYRAMID SOUTH 1",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 942,
+          "serviceName": "B3 - THABAZIMBI / GROTEGELUK 1",
+          "descriptions": [
+            {
+              "serviceId": 922,
+              "serviceName": "B3 - THABAZIMBI / GROTEGELUK 1",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 943,
+          "serviceName": "B4 - RUSTENBURG / MIDDELWIT / THABAZIMBI 1",
+          "descriptions": [
+            {
+              "serviceId": 923,
+              "serviceName": "B4 - RUSTENBURG / MIDDELWIT / THABAZIMBI 1",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 944,
+          "serviceName": "B5 RTR-PNG-ATA 1",
+          "descriptions": [
+            {
+              "serviceId": 924,
+              "serviceName": "B5 RTR-PNG-ATA 1",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 15,
+          "serviceName": "PYRAMID SOUTH / POLOKWANE",
+          "descriptions": [
+            {
+              "serviceId": 15,
+              "serviceName": "PYRAMID SOUTH / POLOKWANE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 1000,
+      "corridorName": "RUSTENBURG SOC",
+      "services": [
+        {
+          "serviceId": 1060,
+          "serviceName": "B44- RUSTENBURG  S3",
+          "descriptions": [
+            {
+              "serviceId": 1060,
+              "serviceName": "B44- RUSTENBURG  S3",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "0020040",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 81,
+      "corridorName": "SALKOR",
+      "services": [
+        {
+          "serviceId": 1322,
+          "serviceName": "CONCEPT 39  SAZ-HWO-SAZ",
+          "descriptions": [
+            {
+              "serviceId": 1401,
+              "serviceName": "CONCEPT 39  SAZ-HWO-SAZ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1323,
+          "serviceName": "CONCEPT 39 ETZ-HWO-ETZ",
+          "descriptions": [
+            {
+              "serviceId": 1402,
+              "serviceName": "CONCEPT 39 ETZ-HWO-ETZ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1422,
+          "serviceName": "CONCEPT 42 ETZ-HWO-ETZ",
+          "descriptions": [
+            {
+              "serviceId": 1562,
+              "serviceName": "CONCEPT 42 ETZ-HWO-ETZ",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1421,
+          "serviceName": "CONCEPT 42 SAZ-HWO-SAZ",
+          "descriptions": [
+            {
+              "serviceId": 1561,
+              "serviceName": "CONCEPT 42 SAZ-HWO-SAZ",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 4,
+      "corridorName": "SENTRACOR 2",
+      "services": [
+        {
+          "serviceId": 23,
+          "serviceName": "BRAAMFONTEIN",
+          "descriptions": [
+            {
+              "serviceId": 23,
+              "serviceName": "BRAAMFONTEIN",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1241,
+              "serviceName": "HPP PASSENGERS",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 27,
+          "serviceName": "GERMISTON (DIESEL)",
+          "descriptions": [
+            {
+              "serviceId": 27,
+              "serviceName": "GERMISTON (DIESEL)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 26,
+          "serviceName": "KAZERNE",
+          "descriptions": [
+            {
+              "serviceId": 26,
+              "serviceName": "KAZERNE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 227,
+          "serviceName": "KOOLVELDE",
+          "descriptions": [
+            {
+              "serviceId": 207,
+              "serviceName": "KOOLVELDE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 25,
+          "serviceName": "LEEUHOF",
+          "descriptions": [
+            {
+              "serviceId": 25,
+              "serviceName": "LEEUHOF",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 226,
+          "serviceName": "LHF HAULER",
+          "descriptions": [
+            {
+              "serviceId": 206,
+              "serviceName": "LHF HAULER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 522,
+          "serviceName": "LHF TAXI SERVICE",
+          "descriptions": [
+            {
+              "serviceId": 502,
+              "serviceName": "LHF TAXI SERVICE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 521,
+          "serviceName": "MASIBAMBANE",
+          "descriptions": [
+            {
+              "serviceId": 501,
+              "serviceName": "MASIBAMBANE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 229,
+          "serviceName": "OGS HAULER",
+          "descriptions": [
+            {
+              "serviceId": 209,
+              "serviceName": "OGS HAULER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 30,
+          "serviceName": "PRETORIA",
+          "descriptions": [
+            {
+              "serviceId": 1502,
+              "serviceName": "EML - PRZ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1261,
+              "serviceName": "HPP PASSENGER TRAINS",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 30,
+              "serviceName": "PRETORIA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1501,
+              "serviceName": "PRZ - EML",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 225,
+          "serviceName": "PRY HAULER",
+          "descriptions": [
+            {
+              "serviceId": 205,
+              "serviceName": "PRY HAULER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 24,
+          "serviceName": "SENTRARAND",
+          "descriptions": [
+            {
+              "serviceId": 24,
+              "serviceName": "SENTRARAND",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 29,
+          "serviceName": "WELGEDAG",
+          "descriptions": [
+            {
+              "serviceId": 29,
+              "serviceName": "WELGEDAG",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 5,
+      "corridorName": "SENTRAKOR 1",
+      "services": [
+        {
+          "serviceId": 1020,
+          "serviceName": "BOTSWANA RAIL",
+          "descriptions": [
+            {
+              "serviceId": 1020,
+              "serviceName": "BOTSWANA RAIL",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 33,
+          "serviceName": "COLIGNY",
+          "descriptions": [
+            {
+              "serviceId": 33,
+              "serviceName": "COLIGNY",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 741,
+              "serviceName": "COLIGNY BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 41,
+          "serviceName": "ERMELO",
+          "descriptions": [
+            {
+              "serviceId": 41,
+              "serviceName": "ERMELO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 241,
+          "serviceName": "ERMELO - VRYHEID",
+          "descriptions": [
+            {
+              "serviceId": 221,
+              "serviceName": "ERMELO - VRYHEID",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 31,
+          "serviceName": "KRUGERSDORP",
+          "descriptions": [
+            {
+              "serviceId": 31,
+              "serviceName": "KRUGERSDORP",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1121,
+          "serviceName": "PASSWORD07",
+          "descriptions": []
+        },
+        {
+          "serviceId": 244,
+          "serviceName": "RICHARDSBAAI - VRYHEID",
+          "descriptions": [
+            {
+              "serviceId": 224,
+              "serviceName": "RICHARDSBAAI - VRYHEID",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 35,
+          "serviceName": "S ERMELO - BETHAL",
+          "descriptions": [
+            {
+              "serviceId": 35,
+              "serviceName": "S ERMELO - BETHAL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 32,
+          "serviceName": "S SPRINGS",
+          "descriptions": [
+            {
+              "serviceId": 32,
+              "serviceName": "S SPRINGS",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 34,
+          "serviceName": "S SPRINGS-TRICHARDT",
+          "descriptions": [
+            {
+              "serviceId": 34,
+              "serviceName": "S SPRINGS-TRICHARDT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 36,
+          "serviceName": "S TRICHARDT  - ERMELO",
+          "descriptions": [
+            {
+              "serviceId": 36,
+              "serviceName": "S TRICHARDT  - ERMELO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1081,
+          "serviceName": "SPECIAL SWITCH ON",
+          "descriptions": [
+            {
+              "serviceId": 1061,
+              "serviceName": "SPECIAL SWITCH ON",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 242,
+          "serviceName": "VRYHEID - ERMELO",
+          "descriptions": [
+            {
+              "serviceId": 222,
+              "serviceName": "VRYHEID - ERMELO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 243,
+          "serviceName": "VRYHEID - RICHARDSBAAI",
+          "descriptions": [
+            {
+              "serviceId": 223,
+              "serviceName": "VRYHEID - RICHARDSBAAI",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 7,
+      "corridorName": "TEST",
+      "services": [
+        {
+          "serviceId": 161,
+          "serviceName": "TOETS",
+          "descriptions": [
+            {
+              "serviceId": 1222,
+              "serviceName": "CONCEPT 31 = ERTZ - HALFWEG (LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1221,
+              "serviceName": "CONCEPT 31 = SALKOR - HALFWEG (LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1543,
+              "serviceName": "EMRMELO-COAL FIELDS",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 801,
+              "serviceName": "ERMELO - COAL FIELDS (NEW)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 703,
+              "serviceName": "KROONSTAD BRANCHLINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 141,
+              "serviceName": "TOETS",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 321,
+              "serviceName": "VBA - WOR - VBA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 981,
+              "serviceName": "VHO-EMR-VHO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 12,
+          "serviceName": "A2-DSL - HRS - DSL",
+          "descriptions": [
+            {
+              "serviceId": 12,
+              "serviceName": "A2-DSL - HRS - DSL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 60,
+          "serviceName": "B4-NELSPRUIT-PLASTON/SABIE/GRASKOP22",
+          "descriptions": [
+            {
+              "serviceId": 60,
+              "serviceName": "B4-NELSPRUIT-PLASTON/SABIE/GRASKOP22",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 961,
+          "serviceName": "A3-DSL - BEM - DSL",
+          "descriptions": [
+            {
+              "serviceId": 941,
+              "serviceName": "A3-DSL - BEM - DSL",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 61,
+          "serviceName": "B6-KAAPMUIDEN-HOEDSPRUIT-BARBERTON22",
+          "descriptions": [
+            {
+              "serviceId": 61,
+              "serviceName": "B6-KAAPMUIDEN-HOEDSPRUIT-BARBERTON22",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 44,
+          "serviceName": "B1-BETHLEHEM-HARRISMITH",
+          "descriptions": [
+            {
+              "serviceId": 44,
+              "serviceName": "B1-BETHLEHEM-HARRISMITH",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 63,
+          "serviceName": "D2-WITBANK-ROOSENEKAL22",
+          "descriptions": [
+            {
+              "serviceId": 63,
+              "serviceName": "D2-WITBANK-ROOSENEKAL22",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 43,
+          "serviceName": "B2-BETHLEHEM-KROONSTAD",
+          "descriptions": [
+            {
+              "serviceId": 43,
+              "serviceName": "B2-BETHLEHEM-KROONSTAD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 9,
+          "serviceName": "C2-RCB - GOL - KTR",
+          "descriptions": [
+            {
+              "serviceId": 9,
+              "serviceName": "C2-RCB - GOL - KTR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 62,
+          "serviceName": "C3-KOMATIPOORT-GOLELLA22",
+          "descriptions": [
+            {
+              "serviceId": 62,
+              "serviceName": "C3-KOMATIPOORT-GOLELLA22",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 64,
+          "serviceName": "E1-LYDENBURG-BELFAST22",
+          "descriptions": [
+            {
+              "serviceId": 64,
+              "serviceName": "E1-LYDENBURG-BELFAST22",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 65,
+          "serviceName": "E2-LYDENBURG-STEELPOORT22",
+          "descriptions": [
+            {
+              "serviceId": 65,
+              "serviceName": "E2-LYDENBURG-STEELPOORT22",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 47,
+          "serviceName": "D2  BLOEMFONTEIN-MASERU",
+          "descriptions": [
+            {
+              "serviceId": 47,
+              "serviceName": "D2  BLOEMFONTEIN-MASERU",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 94,
+          "serviceName": "A2 BEC - BFX - BEC",
+          "descriptions": [
+            {
+              "serviceId": 93,
+              "serviceName": "A2 BEC - BFX - BEC",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 58,
+          "serviceName": "B3 BETHLEHEM - VILLIERS/CLOCLAN/DANIELSRUS",
+          "descriptions": [
+            {
+              "serviceId": 58,
+              "serviceName": "B3 BETHLEHEM - VILLIERS/CLOCLAN/DANIELSRUS",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 119,
+          "serviceName": "B6-KAAPMUIDEN HOEDSPRUIT BABERTON",
+          "descriptions": [
+            {
+              "serviceId": 116,
+              "serviceName": "B6-KAAPMUIDEN HOEDSPRUIT BABERTON",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1281,
+          "serviceName": "B7-PHALABORWA-KTR-NLP/NEW SERVICE",
+          "descriptions": [
+            {
+              "serviceId": 1341,
+              "serviceName": "B-7PHALABORWA-KTR-NLP/NEW SERVICE",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1342,
+              "serviceName": "B7-PHALABORWA-KTR-NLP/NEW SERVICE",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 98,
+          "serviceName": "BFU - CLW - BFU",
+          "descriptions": [
+            {
+              "serviceId": 97,
+              "serviceName": "BFU - CLW - BFU",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 81,
+          "serviceName": "BFU - STW - BLE",
+          "descriptions": [
+            {
+              "serviceId": 80,
+              "serviceName": "BFU - STW - BLE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 95,
+          "serviceName": "BLE",
+          "descriptions": [
+            {
+              "serviceId": 94,
+              "serviceName": "BLE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 78,
+          "serviceName": "BLE - (FKL - KBA - MBY - DEH - KLV - BFI)",
+          "descriptions": [
+            {
+              "serviceId": 77,
+              "serviceName": "BLE - (FKL - KBA - MBY - DEH - KLV - BFI)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 79,
+          "serviceName": "BLE - (KSV - SHC - FGV - CLN - BDD)",
+          "descriptions": [
+            {
+              "serviceId": 78,
+              "serviceName": "BLE - (KSV - SHC - FGV - CLN - BDD)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 77,
+          "serviceName": "BLE - SAZ- BLE",
+          "descriptions": [
+            {
+              "serviceId": 76,
+              "serviceName": "BLE - SAZ- BLE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 80,
+          "serviceName": "BLE - STW - BLE",
+          "descriptions": [
+            {
+              "serviceId": 79,
+              "serviceName": "BLE - STW - BLE",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 262,
+          "serviceName": "C3 BLOEMFONTEIN - THN - WGR",
+          "descriptions": [
+            {
+              "serviceId": 243,
+              "serviceName": "C3 BLOEMFONTEIN - THN - WGR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 57,
+          "serviceName": "C4 KROONSTAD -WEL/WLG",
+          "descriptions": [
+            {
+              "serviceId": 57,
+              "serviceName": "C4 KROONSTAD -WEL/WLG",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 241,
+              "serviceName": "E3 BLOEMFONTEIN - THN - WGR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1222,
+          "serviceName": "CONCEPT 31 = ERTZ - HALFWEG (LOOP 10)",
+          "descriptions": [
+            {
+              "serviceId": 1201,
+              "serviceName": "CONCEPT 31=ERTZ-HALFWEG(LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1221,
+          "serviceName": "CONCEPT 31 = SALKOR - HALFWEG (LOOP 10)",
+          "descriptions": [
+            {
+              "serviceId": 1162,
+              "serviceName": "CONCEPT 31=SALKOR-HALFWEG(LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 462,
+          "serviceName": "CONCEPT 32 = ERTZ - HALFWEG (LOOP10)",
+          "descriptions": [
+            {
+              "serviceId": 442,
+              "serviceName": "CONCEPT 32 = ERTZ - HALFWEG (LOOP10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 461,
+          "serviceName": "CONCEPT 32 = SALKOR - HALFWEG (LOOP 10)",
+          "descriptions": [
+            {
+              "serviceId": 441,
+              "serviceName": "CONCEPT 32 = SALKOR - HALFWEG (LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1242,
+          "serviceName": "CONCEPT 35 ETZ - HWO - ETZ",
+          "descriptions": [
+            {
+              "serviceId": 1282,
+              "serviceName": "CONCEPT 35 ETZ - HWO - ETZ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1241,
+          "serviceName": "CONCEPT 35 SAZ - HWO - SAZ",
+          "descriptions": [
+            {
+              "serviceId": 1281,
+              "serviceName": "CONCEPT 35 SAZ - HWO - SAZ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1062,
+          "serviceName": "CONCEPT 37 = ERTZ - HALFWEG (LOOP 10)",
+          "descriptions": [
+            {
+              "serviceId": 1042,
+              "serviceName": "CONCEPT 37 = ERTZ - HALFWEG (LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1061,
+          "serviceName": "CONCEPT 37 = SALKOR -  HALFWEG (LOOP 10)",
+          "descriptions": [
+            {
+              "serviceId": 1041,
+              "serviceName": "CONCEPT 37 = SALKOR -  HALFWEG (LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 96,
+          "serviceName": "DER - BAC ( KBY ) - DER",
+          "descriptions": [
+            {
+              "serviceId": 95,
+              "serviceName": "DER - BAC ( KBY ) - DER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 93,
+          "serviceName": "DER - NWT - DER",
+          "descriptions": [
+            {
+              "serviceId": 92,
+              "serviceName": "DER - NWT - DER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 82,
+          "serviceName": "DJT - SHC - DJT",
+          "descriptions": [
+            {
+              "serviceId": 81,
+              "serviceName": "DJT - SHC - DJT",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 581,
+          "serviceName": "DNR-DSL-DNR1",
+          "descriptions": [
+            {
+              "serviceId": 561,
+              "serviceName": "DNR-DSL-DNR1",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 37,
+          "serviceName": "EML - VYD - RBQ (EML PERS)",
+          "descriptions": [
+            {
+              "serviceId": 37,
+              "serviceName": "EML - VYD - RBQ (EML PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 38,
+          "serviceName": "EML - VYD - RBQ (VYD PERS)",
+          "descriptions": [
+            {
+              "serviceId": 38,
+              "serviceName": "EML - VYD - RBQ (VYD PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 601,
+          "serviceName": "EML - VYD - RCB (VYD PERS)",
+          "descriptions": [
+            {
+              "serviceId": 581,
+              "serviceName": "EML - VYD - RCB (VYD PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 441,
+          "serviceName": "ERMELO - COAL FIELDS(OLD)",
+          "descriptions": [
+            {
+              "serviceId": 421,
+              "serviceName": "ERMELO - COAL FIELDS",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 321,
+          "serviceName": "ERTZ - HALFWEG (LUS 10)",
+          "descriptions": [
+            {
+              "serviceId": 301,
+              "serviceName": "ERTZ - HALFWEG (LUS 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 201,
+          "serviceName": "F1-STVL-WITBANK",
+          "descriptions": [
+            {
+              "serviceId": 184,
+              "serviceName": "F1-STVL-WIR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 401,
+          "serviceName": "GFB = EML - VYD - RBQ (EML PERS)",
+          "descriptions": [
+            {
+              "serviceId": 381,
+              "serviceName": "GFB = EML - VYD - RBQ (EML PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 402,
+          "serviceName": "GFB = EML - VYD - RBQ (VYD PERS)",
+          "descriptions": [
+            {
+              "serviceId": 382,
+              "serviceName": "GFB = EML - VYD - RBQ (VYD PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 403,
+          "serviceName": "GFB = RBQ - VYD - EML (RCB PERS)",
+          "descriptions": [
+            {
+              "serviceId": 383,
+              "serviceName": "GFB = RBQ - VYD - EML (RCB PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 421,
+          "serviceName": "GFB = RBQ - VYD - EML (VYD PERS)",
+          "descriptions": [
+            {
+              "serviceId": 401,
+              "serviceName": "GFB = RBQ - VYD - EML (VYD PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 623,
+          "serviceName": "H1 HRS-WAN ",
+          "descriptions": [
+            {
+              "serviceId": 602,
+              "serviceName": "H1 HRS-WAN ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 13,
+          "serviceName": "KTR - GOL - RCB",
+          "descriptions": [
+            {
+              "serviceId": 13,
+              "serviceName": "KTR - GOL - RCB",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 223,
+          "serviceName": "KTR-MPM-KTR",
+          "descriptions": [
+            {
+              "serviceId": 203,
+              "serviceName": "KTR-MPM-KTR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 11,
+          "serviceName": "MAM - DNR / DSL + TAK",
+          "descriptions": [
+            {
+              "serviceId": 1381,
+              "serviceName": "B5 - RTR-PNG-ATA",
+              "serviceTrainLimit": 0,
+              "serviceTrainLimitUser": null,
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1181,
+              "serviceName": "C1-LAA BOOK OFF",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 11,
+              "serviceName": "MAM - DNR / DSL + TAK",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 75,
+          "serviceName": "MEI - RAB - MEI",
+          "descriptions": [
+            {
+              "serviceId": 74,
+              "serviceName": "MEI - RAB - MEI",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 39,
+          "serviceName": "RBQ - VYD - EML (RCB PERS)",
+          "descriptions": [
+            {
+              "serviceId": 39,
+              "serviceName": "RBQ - VYD - EML (RCB PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 40,
+          "serviceName": "RBQ - VYD - EML (VYD PERS)",
+          "descriptions": [
+            {
+              "serviceId": 40,
+              "serviceName": "RBQ - VYD - EML (VYD PERS)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 301,
+          "serviceName": "SALKOR",
+          "descriptions": [
+            {
+              "serviceId": 281,
+              "serviceName": "SALKOR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 322,
+          "serviceName": "SALKOR - HALFWEG (LUS 10)",
+          "descriptions": [
+            {
+              "serviceId": 302,
+              "serviceName": "SALKOR - HALFWEG (LUS 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 99,
+          "serviceName": "SAZ-ETZ",
+          "descriptions": [
+            {
+              "serviceId": 98,
+              "serviceName": "SAZ-ETZ",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 228,
+          "serviceName": "STQ HAULER",
+          "descriptions": [
+            {
+              "serviceId": 208,
+              "serviceName": "STQ HAULER",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 92,
+          "serviceName": "UPR - LOL - UPR",
+          "descriptions": [
+            {
+              "serviceId": 91,
+              "serviceName": "UPR - LOL - UPR",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 341,
+          "serviceName": "VBA - WOR -VBA",
+          "descriptions": [
+            {
+              "serviceId": 322,
+              "serviceName": "VBA - WOR -VBA",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1021,
+          "serviceName": "VHO-EMR-VHO AND VHO-RBH-VHO",
+          "descriptions": [
+            {
+              "serviceId": 1001,
+              "serviceName": "VHO-EMR-VHO AND VHO-RBH-VHO",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 28,
+          "serviceName": "VOORUITSIG",
+          "descriptions": [
+            {
+              "serviceId": 1081,
+              "serviceName": "EML-RCB-EML",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 28,
+              "serviceName": "VOORUITSIG",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 70,
+          "serviceName": "VRU - MEI - VRU",
+          "descriptions": [
+            {
+              "serviceId": 69,
+              "serviceName": "VRU - MEI - VRU",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 704,
+          "serviceName": "WORCESTER BRANCH LINES",
+          "descriptions": [
+            {
+              "serviceId": 682,
+              "serviceName": "WORCESTER BRANCH LINES",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "corrirorId": 1,
+      "corridorName": "TEST 1",
+      "services": [
+        {
+          "serviceId": 2,
+          "serviceName": "DANSKRAAL/GLENCO/VRYHEID OLD",
+          "descriptions": [
+            {
+              "serviceId": 2,
+              "serviceName": "DANSKRAAL/GLENCO/VRYHEID OLD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 230,
+          "serviceName": "DSL-BRG-ECT OLD",
+          "descriptions": [
+            {
+              "serviceId": 210,
+              "serviceName": "DSL-BRG-ECT OLD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 6,
+          "serviceName": "JOHANNESBURG NA DURBAN OLD",
+          "descriptions": [
+            {
+              "serviceId": 6,
+              "serviceName": "JOHANNESBURG NA DURBAN OLD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 1,
+          "serviceName": "JOHANNESBURG NA NEW CASTLE OLD",
+          "descriptions": [
+            {
+              "serviceId": 1161,
+              "serviceName": "CONCEPT 31 = SALKOR-HALFWEG (LOOP 10)",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            },
+            {
+              "serviceId": 1,
+              "serviceName": "JOHANNESBURG NA NEW CASTLE OLD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 5,
+          "serviceName": "NATCOR 1 + 2 OLD",
+          "descriptions": [
+            {
+              "serviceId": 5,
+              "serviceName": "NATCOR 1 + 2 OLD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 3,
+          "serviceName": "NEW CASTLE NA DANSKRAAL OLD",
+          "descriptions": [
+            {
+              "serviceId": 3,
+              "serviceName": "NEW CASTLE NA DANSKRAAL OLD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 4,
+          "serviceName": "NEWCASTLE-GLENCO-VRYHEID OLD",
+          "descriptions": [
+            {
+              "serviceId": 4,
+              "serviceName": "NEWCASTLE-GLENCO-VRYHEID OLD",
+              "serviceTrainLimit": 100,
+              "serviceTrainLimitUser": "CDL898",
+              "defaultSectionLocation": null,
+              "defaultSectionStartLocation": null,
+              "defaultSectionEndLocation": null,
+              "dailyServicePlan": null
+            }
+          ]
+        },
+        {
+          "serviceId": 821,
+          "serviceName": "STVL-DNR OLD",
+          "descriptions": []
+        }
+      ]
+    },
+    {
+      "corrirorId": 201,
+      "corridorName": "TEST 2",
+      "services": []
+    }
+  ]
+}
